@@ -17,9 +17,13 @@ main {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 40px;
 }
 
 h2 {
-  font-family: 24px;
+  font-family: 30px;
+}
+
+img.lado {
+  float: right;
 }
